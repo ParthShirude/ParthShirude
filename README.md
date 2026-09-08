@@ -28,6 +28,8 @@
 
 I have built multiple Python projects while strengthening my programming and problem-solving skills.
 
+<img align="right" alt="Coding" width="300" src="./assets/download.png"/>
+
 Some of my projects include:
 
 * 🎲 **Dice Rolling Simulation**
