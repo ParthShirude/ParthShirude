@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-<img align="right" alt="Coding" width="300" src="./assets/satoru-gojo"/>
+<img align="right" alt="Coding" width="300" src="./assets/satoru-gojo.gif"/>
 
 * 🎓 Undergraduate **Computer Science Student**
 * 🌱 Currently learning **React & Full Stack Development**
