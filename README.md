@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-<img align="right" alt="Levi Ackerman" width="300" src="https://media1.tenor.com/m/4XlK7e3j0fAAAAAC/levi-attack-on-titan.gif"/>
+<img align="right" alt="Coding" width="300" src="./assets/satoru-gojo"/>
 
 * 🎓 Undergraduate **Computer Science Student**
 * 🌱 Currently learning **React & Full Stack Development**
